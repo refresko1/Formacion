@@ -1,0 +1,26 @@
+Curso de estadististica descriptiva que contempla 2 visiones fundamentales
+resumir info con numeros, resumir info con visualizaciones
+
+
+La estadistica descriptiva como herramienta de analisis nos permite rtabajar en 2 bloques
+1. el analisis explotario de la info
+2. procesamiento de la info antes de ponerla en un modelo
+
+la idea del curso es adquirir los elemenos de estadistica descriptiva minimos
+para saber todo lo que se debe hacer en procesamiento de datos
+
+la tecnica del analiisis de componentes principales PCA
+
+
+Visión de la estadística descriptiva: Resumir información con números y con visualizaciones
+
+La estadística descriptiva nos permite trabajar con 2 bloques fundamentales de la ciencia de datos:
+
+El análisis exploratorio de datos y en el procesamiento de la información, antes de pasar al modelo de Machine Learning.
+¿Por qué es tan importante el procesamiento de datos? El procesamiento de datos es muy importante para que todo tenga un 
+formato estandarizado para que sea de fácil entendimiento para un modelo de Machine Learning. 
+Sabiendo eso, las correlaciones son fundamentales para ver que variables tienen una alta relación y de ahí 
+evidenciar que puede haber variables que pueden resultan redundantes para el modelo
+
+Y como conclusión final vimos la técnica PCA: el análisis de componentes principales es una
+ técnica utilizada para describir un conjunto de datos en términos de nuevas variables no correlacionadas.
